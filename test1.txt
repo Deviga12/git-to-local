@@ -1,2 +1,3 @@
 Hi How r u 
 I modify the some text
+I can use this for pull method
